@@ -1,0 +1,132 @@
+@font-face {
+    font-family: ITC-regular;
+    src: url(./BauhausStd-Demi.woff2);
+}
+
+@font-face {
+    font-family: ITC-bold;
+    src: url(./BauhausStd-Bold.woff2);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #000000;
+}
+
+body {
+    background-image: url(./bg.png), url(./bgflip.png), url(./bgflip.png);
+    background-repeat: no-repeat;
+    background-position: 78.5vw 5vh, -11vh 63vh, -27vh -50vh;
+    background-size: 60vh;
+    height: 100vh;
+    font-family: "ITC-regular";
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+/* #center{
+    display: grid;
+} */
+.link{
+    font-size: 25px;
+    margin: auto;
+}
+table {
+    top: 50%;
+    margin: auto;
+    padding: 0px 0px;
+    border-spacing: 7px;
+
+}
+
+.date {
+    border: 2px solid #3a5b4c;
+}
+
+th,
+td,
+tr {
+    border: 2px solid #6d926e;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px 50px;
+}
+
+th {
+    background-color: #3a5b4c;
+    color: #fff;
+}
+
+@media (max-width: 1600px) {
+    body {
+        background-position: 75vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+}
+
+@media (max-width: 1300px) {
+    body {
+        background-position: 69vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+}
+
+@media (max-width: 1080px) {
+    body {
+        background-position: 62vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+
+    table {
+        padding: auto 0px;
+        justify-self: center;
+    }
+
+    td,
+    tr,
+    th {
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 1000px) {
+    body {
+        background-position: 60vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+    td,
+    tr,
+    th {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 750px) {
+    body {
+        background-position: 47vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+    td,
+    tr,
+    th {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 720px) {
+    body {
+        background-position: 43vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+    td,
+    tr,
+    th {
+        font-size: 25px;
+    }
+    .link{
+        font-size: 20px;
+        margin: auto;
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        background-position: 27vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+}

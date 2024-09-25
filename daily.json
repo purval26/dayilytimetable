@@ -1,0 +1,34 @@
+[
+    {
+        "date": "26 / 09 / 2024",
+        "lec1": "SP SIR",
+        "lec2": "JD SIR",
+        "lec3": "AD SIR",
+        "lec4": "PL SIR",
+        "lec5": "PPM SIR",
+        "lec6": "SK SIR",
+        "lec7": "COMPUTER",
+        "hw1" :  "JM SIR 2-TIMES",
+        "hw2" :  "",
+        "hw3" :  "",
+        "edate" : "27 / 09 / 2024",
+        "sub" : "PHYSICS",
+        "ch"  : "4,14"
+    },
+    {
+        "date": "25 / 09 / 2024",
+        "lec1": "EXAM",
+        "lec2": "SP SIR",
+        "lec3": "SP SIR",
+        "lec4": "AD SIR",
+        "lec5": "JM SIR",
+        "lec6": "SK SIR",
+        "lec7": "TL SIR",
+        "hw1" :  "PL SIR 2-TIMES",
+        "hw2" :  "PPM SIR FORMULAS 2-TIMES",
+        "hw3" :  "",
+        "edate" : "27 / 09 / 2024",
+        "sub" : "PHYSICS",
+        "ch"  : "4,14"
+    }
+]
