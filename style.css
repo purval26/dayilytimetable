@@ -26,13 +26,12 @@ body {
     justify-content: center;
     display: flex;
 }
-/* #center{
-    display: grid;
-} */
-.link{
+
+.link {
     font-size: 25px;
     margin: auto;
 }
+
 table {
     top: 50%;
     margin: auto;
@@ -92,6 +91,7 @@ th {
     body {
         background-position: 60vw 5vh, -11vh 63vh, -27vh -50vh;
     }
+
     td,
     tr,
     th {
@@ -103,6 +103,7 @@ th {
     body {
         background-position: 47vw 5vh, -11vh 63vh, -27vh -50vh;
     }
+
     td,
     tr,
     th {
@@ -114,12 +115,14 @@ th {
     body {
         background-position: 43vw 5vh, -11vh 63vh, -27vh -50vh;
     }
+
     td,
     tr,
     th {
         font-size: 25px;
     }
-    .link{
+
+    .link {
         font-size: 20px;
         margin: auto;
     }
