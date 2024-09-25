@@ -32,6 +32,22 @@ body {
     margin: auto;
 }
 
+button {
+    border: none;
+    margin: 0px 15px;
+}
+
+.left,
+.right {
+    background-color: #3a5b4c;
+    border: 0px solid;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 16px;
+}
+
 table {
     top: 50%;
     margin: auto;
