@@ -39,7 +39,7 @@ function displayData(data) {
     console.log(i)
         const hw = `
         <h1>HOMEWORK</h1>
-       <h2>${data[i].date}</h2>
+       <h2>${data[i].hwdate}</h2>
         <p>${data[i].hw1}</p>
         <p>${data[i].hw2}</p>
         <p>${data[i].hw3}</p>

@@ -1,6 +1,6 @@
 [
     {
-        "date": "26 / 09 / 2024",
+        "date": "27 / 09 / 2024",
         "lec1": "EXAM",
         "lec2": "TL SIR",
         "lec3": "KP SIR",
@@ -8,6 +8,7 @@
         "lec5": "PPM SIR",
         "lec6": "SK SIR",
         "lec7": "PPC SIR",
+        "hwdate" : "26 / 09 / 2024",
         "hw1" :  "JD SIR 2-TIMES",
         "hw2" :  "PL SIR 2-TIMES",
         "hw3" :  "PPM SIR 2-TIMES",
@@ -16,7 +17,7 @@
         "ch"  : "4,14"
     },
     {
-        "date": "25 / 09 / 2024",
+        "date": "26 / 09 / 2024",
         "lec1": "SP SIR",
         "lec2": "JD SIR",
         "lec3": "AD SIR",
@@ -24,6 +25,7 @@
         "lec5": "PPM SIR",
         "lec6": "SK SIR",
         "lec7": "COMPUTER",
+        "hwdate" : "25 / 09 / 2024",
         "hw1" :  "JM SIR 2-TIMES",
         "hw2" :  "",
         "hw3" :  "",
@@ -32,7 +34,7 @@
         "ch"  : "4,14"
     },
     {
-        "date": "24 / 09 / 2024",
+        "date": "25 / 09 / 2024",
         "lec1": "EXAM",
         "lec2": "SP SIR",
         "lec3": "SP SIR",
@@ -40,6 +42,7 @@
         "lec5": "JM SIR",
         "lec6": "SK SIR",
         "lec7": "TL SIR",
+        "hwdate" : "24 / 09 / 2024",
         "hw1" :  "PL SIR 2-TIMES",
         "hw2" :  "PPM SIR FORMULAS 2-TIMES",
         "hw3" :  "",
