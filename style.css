@@ -137,6 +137,10 @@ th {
     th {
         font-size: 25px;
     }
+    button {
+        border: none;
+        margin: 0px 5px;
+    }
 
     .link {
         font-size: 20px;
