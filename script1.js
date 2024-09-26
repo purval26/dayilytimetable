@@ -51,7 +51,7 @@ function displayData(data) {
        <h2>${data[i].edate}</h2>
         <p>${data[i].sub}: <br/>
   CHAPTER: ${data[i].ch}</p>
-            <a class="link" href="./index.html">Today's Time Table</a>
+            <a class="link" href="./index.html">Tomorrow's Time Table</a>
         `;
         center.innerHTML = hw;
 }
