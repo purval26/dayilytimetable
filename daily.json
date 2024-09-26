@@ -1,5 +1,21 @@
 [
     {
+        "date": "27 / 09 / 2024",
+        "lec1": "EXAM",
+        "lec2": "TL SIR",
+        "lec3": "KP SIR",
+        "lec4": "AD SIR",
+        "lec5": "PPM SIR",
+        "lec6": "SK SIR",
+        "lec7": "PPC SIR",
+        "hw1" :  "JD SIR 2-TIMES",
+        "hw2" :  "PL SIR 2-TIMES",
+        "hw3" :  "PPM SIR 2-TIMES",
+        "edate" : "27 / 09 / 2024",
+        "sub" : "PHYSICS",
+        "ch"  : "4,14"
+    },
+    {
         "date": "26 / 09 / 2024",
         "lec1": "SP SIR",
         "lec2": "JD SIR",
