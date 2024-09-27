@@ -1,5 +1,22 @@
 [
     {
+        "date": "25 / 09 / 2024",
+        "lec1": "TL SIR",
+        "lec2": "SP SIR",
+        "lec3": "ENGLISH",
+        "lec4": "AD SIR",
+        "lec5": "KP SIR",
+        "lec6": "SK SIR",
+        "lec7": "AD SIR",
+        "hwdate" : "27 / 09 / 2024",
+        "hw1" :  "KP SIR 2-QUE",
+        "hw2" :  "PPM SIR 1-TIME",
+        "hw3" :  "",
+        "edate" : "29 / 09 / 2024",
+        "sub" : "JEE ADVANCE",
+        "ch"  : "IDK"
+    },
+    {
         "date": "27 / 09 / 2024",
         "lec1": "EXAM",
         "lec2": "TL SIR",
