@@ -8,7 +8,7 @@ async function fetchapi() {
     try {
         const response = await fetch(API);
         data = await response.json();
-        console.log(data);
+        // console.log(data);
         displayData(data);
     } catch (err) {
         console.log("Something went wrong", err)
@@ -34,9 +34,9 @@ function nexthw() {
 
 fetchapi();
 function displayData(data) {
-        console.log(data)
+        // console.log(data)
         
-    console.log(i)
+    // console.log(i)
         const hw = `
         <h1>HOMEWORK</h1>
        <h2>${data[i].hwdate}</h2>
