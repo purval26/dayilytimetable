@@ -1,5 +1,22 @@
 [
     {
+        "date": "01 / 10 / 2024",
+        "lec1": "LAB",
+        "lec2": "JD SIR",
+        "lec3": "AD SIR",
+        "lec4": "SP SIR",
+        "lec5": "PPM SIR",
+        "lec6": "AD SIR",
+        "lec7": "TL SIR",
+        "hwdate" : "30 / 09 / 2024",
+        "hw1" :  "JD SIR 2-TIMES",
+        "hw2" :  "PPM SIR 1-TIME",
+        "hw3" :  "KP SIR:- 5,7,8,9,10 <br>2-TIMES",
+        "edate" : "02 / 10 / 2024",
+        "sub" : "IDK",
+        "ch"  : "IDK"
+    },
+    {
         "date": "30 / 09 / 2024",
         "lec1": "AD SIR",
         "lec2": "ENGLISH",
@@ -13,8 +30,8 @@
         "hw2" :  "",
         "hw3" :  "",
         "edate" : "02 / 10 / 2024",
-        "sub" : "",
-        "ch"  : ""
+        "sub" : "IDK",
+        "ch"  : "IDK"
     },
     {
         "date": "29 / 09 / 2024",
