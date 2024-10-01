@@ -1,5 +1,22 @@
 [
     {
+        "date": "02 / 10 / 2024",
+        "lec1": "EXAM",
+        "lec2": "ENGLISH",
+        "lec3": "SP SIR",
+        "lec4": "SP SIR",
+        "lec5": "TL SIR",
+        "lec6": "AD SIR",
+        "lec7": "JD SIR",
+        "hwdate" : "01 / 10 / 2024",
+        "hw1" :  "JD SIR 2-TIMES",
+        "hw2" :  "PPM SIR 1-TIME",
+        "hw3" :  "",
+        "edate" : "02 / 10 / 2024",
+        "sub" : "Maths",
+        "ch"  : "9,11"
+    },
+    {
         "date": "01 / 10 / 2024",
         "lec1": "LAB",
         "lec2": "JD SIR",
@@ -13,8 +30,8 @@
         "hw2" :  "PPM SIR 1-TIME",
         "hw3" :  "KP SIR:- 5,7,8,9,10 <br>2-TIMES",
         "edate" : "02 / 10 / 2024",
-        "sub" : "IDK",
-        "ch"  : "IDK"
+        "sub" : "Maths",
+        "ch"  : "9,11"
     },
     {
         "date": "30 / 09 / 2024",
@@ -30,8 +47,8 @@
         "hw2" :  "",
         "hw3" :  "",
         "edate" : "02 / 10 / 2024",
-        "sub" : "IDK",
-        "ch"  : "IDK"
+        "sub" : "Maths",
+        "ch"  : "9,11"
     },
     {
         "date": "29 / 09 / 2024",
