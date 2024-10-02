@@ -34,7 +34,8 @@ fetchapi();
 function displayData(data) {
     // console.log(data)
     // console.log(i)
-        const table = `
+    const table = `
+    <a class="link" href="./bp.html">Download SA1 Blueprints Here!</a>
         <table>
          <tr><th class="date">${data[i].date}</th></tr>
             <tr><td class="1">${data[i].lec1}</td></tr>

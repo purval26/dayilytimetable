@@ -1,5 +1,22 @@
 [
     {
+        "date": "03 / 10 / 2024",
+        "lec1": "SP SIR",
+        "lec2": "AD SIR",
+        "lec3": "ENGLISH",
+        "lec4": "AP SIR",
+        "lec5": "PPM SIR",
+        "lec6": "SK SIR",
+        "lec7": "COMPUTER",
+        "hwdate" : "02 / 10 / 2024",
+        "hw1" :  "JD SIR 2-TIMES",
+        "hw2" :  "",
+        "hw3" :  "",
+        "edate" : "04 / 10 / 2024",
+        "sub" : "Computer",
+        "ch"  : "1 TO 5"
+    },
+    {
         "date": "02 / 10 / 2024",
         "lec1": "EXAM",
         "lec2": "ENGLISH",

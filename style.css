@@ -26,15 +26,43 @@ body {
     justify-content: center;
     display: flex;
 }
-
+.bp {
+    background: none;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+img{
+    /* height: 90vh; */
+    width: 100vw;
+}
+#center{
+    display: flex;
+    flex-direction: column;
+}
 .link {
     font-size: 25px;
     margin: auto;
 }
 
-button {
+.nepe {
+    border: none !important; 
+    margin: 0px 15px !important;
+}
+button{
+    margin: 20px;
+    padding: 10px;
+    height: 40px;
+    color: #fff;
+    background-color: #3a5b4c;
     border: none;
-    margin: 0px 15px;
+    border-radius: 4px;
+}
+.but{
+    z-index: 99;
+    top: 20% !important;
 }
 
 .left,
