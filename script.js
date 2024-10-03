@@ -35,18 +35,18 @@ function displayData(data) {
     // console.log(data)
     // console.log(i)
     const table = `
+    <table>
+    <tr><th class="date">${data[i].date}</th></tr>
+    <tr><td class="1">${data[i].lec1}</td></tr>
+    <tr><td class="2">${data[i].lec2}</td></tr>
+    <tr><td class="3">${data[i].lec3}</td></tr>
+    <tr><td class="4">${data[i].lec4}</td></tr>
+    <tr><td class="5">${data[i].lec5}</td></tr>
+    <tr><td class="6">${data[i].lec6}</td></tr>
+    <tr><td class="7">${data[i].lec7}</td></tr>
+    </table>
+    <a class="link" href="./hw.html">Today's Homework & Next Exam Syllabus</a>
     <a class="link" href="./bp.html">Download SA1 Blueprints Here!</a>
-        <table>
-         <tr><th class="date">${data[i].date}</th></tr>
-            <tr><td class="1">${data[i].lec1}</td></tr>
-            <tr><td class="2">${data[i].lec2}</td></tr>
-            <tr><td class="3">${data[i].lec3}</td></tr>
-            <tr><td class="4">${data[i].lec4}</td></tr>
-            <tr><td class="5">${data[i].lec5}</td></tr>
-            <tr><td class="6">${data[i].lec6}</td></tr>
-            <tr><td class="7">${data[i].lec7}</td></tr>
-        </table>
-        <a class="link" href="./hw.html">Today's Homework & Next Exam Syllabus</a>
         `;
         center.innerHTML = table;
 }
