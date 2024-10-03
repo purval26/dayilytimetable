@@ -20,3 +20,10 @@ function maths() {
         `;
         center.innerHTML = table;
 }
+function sa1() {
+    const table = `
+    <img src="./SA1.png">
+    <a class="link" href="./index.html">Tomorrow's Time Table</a>
+        `;
+        center.innerHTML = table;
+}
