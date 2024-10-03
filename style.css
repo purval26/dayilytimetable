@@ -27,6 +27,7 @@ body {
     display: flex;
 }
 .bp {
+    font-family: "ITC-regular" !important;
     background: none;
     align-items: center;
     justify-content: flex-start;
@@ -52,6 +53,8 @@ img{
     margin: 0px 15px !important;
 }
 .bpbut{
+    font-family: "ITC-regular" !important;
+    text-decoration: underline;
     margin: 20px;
     padding: 10px;
     height: 40px;
@@ -59,6 +62,9 @@ img{
     background-color: #3a5b4c;
     border: none;
     border-radius: 4px;
+}
+.bpbut:hover{
+    cursor: pointer;
 }
 .but{
     z-index: 99;
