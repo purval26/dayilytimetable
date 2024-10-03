@@ -1,10 +1,27 @@
 [
     {
+        "date": "04 / 10 / 2024",
+        "lec1": "EXAM",
+        "lec2": "TL SIR",
+        "lec3": "AD SIR",
+        "lec4": "AD SIR",
+        "lec5": "PPM SIR",
+        "lec6": "SK SIR",
+        "lec7": "PPC SIR",
+        "hwdate" : "03 / 10 / 2024",
+        "hw1" :  "PPM SIR 1-TIMES",
+        "hw2" :  "",
+        "hw3" :  "",
+        "edate" : "04 / 10 / 2024",
+        "sub" : "Computer",
+        "ch"  : "8,10"
+    },
+    {
         "date": "03 / 10 / 2024",
         "lec1": "SP SIR",
         "lec2": "AD SIR",
         "lec3": "ENGLISH",
-        "lec4": "AP SIR",
+        "lec4": "AD SIR",
         "lec5": "PPM SIR",
         "lec6": "SK SIR",
         "lec7": "COMPUTER",
@@ -14,7 +31,7 @@
         "hw3" :  "",
         "edate" : "04 / 10 / 2024",
         "sub" : "Computer",
-        "ch"  : "1 TO 5"
+        "ch"  : "8,10"
     },
     {
         "date": "02 / 10 / 2024",
