@@ -144,7 +144,7 @@ th {
 
     td,
     tr,
-    th {
+    th,a {
         font-size: 25px;
     }
 }
