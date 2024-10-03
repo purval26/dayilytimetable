@@ -144,7 +144,7 @@ th {
 
     td,
     tr,
-    th,a {
+    th {
         font-size: 25px;
     }
 }
@@ -192,6 +192,14 @@ th {
 }
 
 @media (max-width: 550px) {
+    body {
+        background-position: 27vw 5vh, -11vh 63vh, -27vh -50vh;
+    }
+}
+@media (max-width: 475px) {
+    .link{
+        font-size: .75rem;
+    }
     body {
         background-position: 27vw 5vh, -11vh 63vh, -27vh -50vh;
     }
