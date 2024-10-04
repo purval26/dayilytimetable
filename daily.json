@@ -1,5 +1,22 @@
 [
     {
+        "date": "05 / 10 / 2024",
+        "lec1": "SP SIR",
+        "lec2": "LAB",
+        "lec3": "AD SIR",
+        "lec4": "ENGLISH",
+        "lec5": "AD SIR",
+        "lec6": "TL SIR",
+        "lec7": "PPC SIR",
+        "hwdate" : "04 / 10 / 2024",
+        "hw1" :  "PPM SIR 1-TIMES",
+        "hw2" :  "",
+        "hw3" :  "",
+        "edate" : "07 / 10 / 2024",
+        "sub" : "JEE-MAIN",
+        "ch"  : "IF YOU KNOW, YOU KNOW"
+    },
+    {
         "date": "04 / 10 / 2024",
         "lec1": "EXAM",
         "lec2": "TL SIR",
