@@ -1,5 +1,22 @@
 [
     {
+        "date": "10 / 10 / 2024",
+        "lec1": "AD SIR",
+        "lec2": "SP SIR",
+        "lec3": "PL SIR",
+        "lec4": "ENGLISH",
+        "lec5": "PPM SIR",
+        "lec6": "SK SIR",
+        "lec7": "COMPUTER",
+        "hwdate" : "09 / 10 / 2024",
+        "hw1" :  "NOTHING",
+        "hw2" :  "",
+        "hw3" :  "",
+        "edate" : "14 / 10 / 2024",
+        "sub" : "ENGLISH",
+        "ch"  : "SA1"
+    },
+    {
         "date": "09 / 10 / 2024",
         "lec1": "SP SIR",
         "lec2": "ENGLISH",
@@ -9,7 +26,7 @@
         "lec6": "SK SIR",
         "lec7": "AD SIR",
         "hwdate" : "08 / 10 / 2024",
-        "hw1" :  "NOTHING",
+        "hw1" :  "AD SIR 1-TIME",
         "hw2" :  "",
         "hw3" :  "",
         "edate" : "14 / 10 / 2024",
