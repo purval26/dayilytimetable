@@ -46,7 +46,7 @@ function displayData(data) {
     <tr><td class="7">${data[i].lec7}</td></tr>
     </table>
     <a class="link" href="./hw.html">Today's Homework & Next Exam Syllabus</a>
-    <a class="link" href="./bp.html">Download SA1 Blueprints Here!</a>
+    <a class="link" href="./bp.html" style="display: none;">Download SA1 Blueprints Here!</a>
         `;
         center.innerHTML = table;
 }
