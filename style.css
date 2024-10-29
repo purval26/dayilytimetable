@@ -28,7 +28,7 @@ body {
 }
 .bp {
     font-family: "ITC-regular" !important;
-    background: none;
+    /* background: none; */
     align-items: center;
     justify-content: flex-start;
     display: flex;

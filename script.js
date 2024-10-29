@@ -59,7 +59,9 @@ self.addEventListener('install', function(event) {
         '/style.css',
         '/script.js',
         '/script1.js',
-        '/daily.json'
+        '/daily.json',
+        './hw.html',
+        './bp.html'
     ];
 
     event.waitUntil(
