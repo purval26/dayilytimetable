@@ -1,4 +1,23 @@
-[{
+[
+{
+        "date": "12 / 11 / 2024",
+        "lec1": "TL SIR",
+        "lec2": "ENGLISH",
+        "lec3": "LAB",
+        "lec4": "AD SIR",
+        "lec5": "AD SIR",
+        "lec6": "PPC SIR",
+        "lec7": "PPM SIR",
+        "hwdate": "11 / 11 / 2024",
+        "hw1": "PPM SIR 2-TIMES",
+        "hw2": "",
+        "hw3": "",
+        "edate": "16 / 10 / 2024",
+        "sub": "MATHS ROUND-1",
+        "ch": "1,2,3,4"
+    },
+    
+{
         "date": "11 / 10 / 2024",
         "lec1": "EXAM",
         "lec2": "ENGLISH",
@@ -15,7 +34,6 @@
         "sub": "JEE-MAIN",
         "ch": "IF YOU KNOW, YOU KNOW"
     },
-    
     {
         "date": "27 / 10 / 2024",
         "lec1": "DIWALI<br/>VACATION<br/>STARTS",
