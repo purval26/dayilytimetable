@@ -1,4 +1,21 @@
 [
+    {
+        "date": "17 / 11 / 2024",
+        "lec1": "PAPER-1<br/> 07:30 TO 10:30",
+        "lec2": "SP SIR<br/> 10:30 TO 11:30",
+        "lec3": "LUNCH BREAK<br/> 11:30 TO 12:00",
+        "lec4": "PAPER-2 <br/> 12:00 TO 03:00",
+        "lec5": "",
+        "lec6": "",
+        "lec7": "",
+        "hwdate": "16 / 11 / 2024",
+        "hw1": "NOTHING",
+        "hw2": "",
+        "hw3": "",
+        "edate": "19 / 11 / 2024",
+        "sub": "CHEMISTRY ROUND-1",
+        "ch": "1,6,10"
+    },
 {
         "date": "16 / 11 / 2024",
         "lec1": "EXAM",
@@ -12,9 +29,9 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "16 / 10 / 2024",
-        "sub": "MATHS ROUND-1",
-        "ch": "1,2,3,4"
+        "edate": "17 / 10 / 2024",
+        "sub": "JEE ADVANCE",
+        "ch": "IF YOU KNOW,  YOU KNOW"
     },
 {
         "date": "15 / 11 / 2024",
