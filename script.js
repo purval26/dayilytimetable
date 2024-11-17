@@ -83,16 +83,6 @@ function displayData(data) {
     </table>
     <a class="link link1" id="link1" href="./hw.html">Today's Homework & Next Exam Syllabus</a>
     <a class="link" id="link2" href="./bp.html" style="display: none;">Download SA1 Blueprints Here!</a>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1998433425235931"
-     crossorigin="anonymous"></script>
-<!-- 1 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-1998433425235931"
-     data-ad-slot="3389282990"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     `;
     center.innerHTML = table;
     const lect1 = document.querySelector(".lect1");
