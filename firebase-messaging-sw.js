@@ -1,7 +1,7 @@
-// firebase-messaging-sw.js
 importScripts('https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js');
 importScripts('https://www.gstatic.com/firebasejs/11.0.2/firebase-messaging.js');
 
+// Firebase configuration
 firebase.initializeApp({
   apiKey: "AIzaSyBMXCTJLTbKpZB6p68EnVYIqMFpQB4yRZQ",
   authDomain: "txpurval.firebaseapp.com",
@@ -12,17 +12,28 @@ firebase.initializeApp({
   measurementId: "G-PQERDT8CCT"
 });
 
+// Retrieve Firebase Messaging instance
 const messaging = firebase.messaging();
 
 // Handle background messages
 messaging.onBackgroundMessage((payload) => {
   console.log('Received background message: ', payload);
-  // Customize notification here
+
   const notificationTitle = payload.notification.title;
   const notificationOptions = {
     body: payload.notification.body,
-    icon: '/firebase-logo.png' // Change to your icon
+    icon: payload.notification.icon,
   };
 
-  return self.registration.showNotification(notificationTitle, notificationOptions);
+  self.registration.showNotification(notificationTitle, notificationOptions);
 });
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/firebase-messaging-sw.js')
+      .then(function(registration) {
+        console.log('Service Worker registered with scope:', registration.scope);
+      })
+      .catch(function(error) {
+        console.error('Service Worker registration failed:', error);
+      });
+  }
+  
