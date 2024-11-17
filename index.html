@@ -35,13 +35,14 @@
     
       // Initialize Firebase Messaging
       const messaging = getMessaging(app);
+      
     
       // Request permission to send notifications
       Notification.requestPermission().then(permission => {
         if (permission === 'granted') {
           console.log('Notification permission granted.');
           // Get the device token
-          getToken(messaging, { vapidKey: 'YOUR_PUBLIC_VAPID_KEY_HERE' })
+          getToken(messaging, { vapidKey: 'BPopeaf_k3llQ-jXd9BKJApHeh2lWiofLMHM1pUnJIQuS5YzZe4rUq3FjizDt6YywWhXsHhqdubUwBEljL-49yY' })
             .then((currentToken) => {
               if (currentToken) {
                 console.log('FCM Token:', currentToken);

@@ -1,13 +1,4 @@
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/firebase-messaging-sw.js')
-      .then((registration) => {
-        console.log('Service Worker registered:', registration);
-      })
-      .catch((error) => {
-        console.error('Service Worker registration failed:', error);
-      });
-  }
-  
+
 
 let API = "./daily.json";
 const center = document.getElementById("center");
@@ -130,15 +121,15 @@ function checkdata(lect1, lect2, lect3, lect4, lect5, lect6, lect7) {
 }
 async function links() {
     const link = document.querySelector(".link1");
-    console.log("Link Element:", link); // Check if the link is found
-    console.log("Select Element Value:", selectElement.value); // Check the value of the select element
-
+    // console.log("Link Element:", link); // Check if the link is found
+    // console.log("Select Element Value:", selectElement.value); // Check the value of the select element
+    
     if (selectElement.value === "j") {
         if (link) {
             link.classList.add("hide"); // Add the hide class to hide the link
-            console.log("Link hidden");
+            // console.log("Link hidden");
         } else {
-            console.log("Link not found");
+            // console.log("Link not found");
         }
     }
 }
@@ -155,12 +146,21 @@ self.addEventListener('install', function (event) {
         './hw.html',
         './bp.html'
     ];
-
+    
     event.waitUntil(
         caches.open(CACHE_NAME)
-            .then(function (cache) {
+        .then(function (cache) {
                 console.log('Opened cache');
                 return cache.addAll(urlsToCache);
             })
-    );
+        );
 });
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./firebase-messaging-sw.js')
+              .then((registration) => {
+                console.log('Service Worker registered:', registration);
+              })
+              .catch((error) => {
+                console.error('Service Worker registration failed:', error);
+              });
+          }
