@@ -61,7 +61,7 @@
       // Handle incoming messages when the website is open
       onMessage(messaging, (payload) => {
         console.log('Message received. ', payload);
-        alert(`New Notification: ${payload.notification.title}`);
+        alert(`New Notification: ${payload.notification.title}${payload.notification.body}`);
       });
     </script>
     
