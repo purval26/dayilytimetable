@@ -142,7 +142,8 @@ self.addEventListener('install', function (event) {
         '/script1.js',
         '/daily.json',
         './hw.html',
-        './bp.html'
+        './bp.html',
+        './favicon.png'
     ];
     
     event.waitUntil(
