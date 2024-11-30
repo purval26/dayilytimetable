@@ -1,5 +1,22 @@
 [
 {
+        "date": "01 / 12 / 2024",
+        "lec1": "PPC SIR",
+        "lec2": "VS SIR",
+        "lec3": "SP SIR",
+        "lec4": "",
+        "lec5": "",
+        "lec6": "",
+        "lec7": "",
+        "hwdate": "30 / 11 / 2024",
+        "hw1": "NOTHING",
+        "hw2": "",
+        "hw3": "",
+        "edate": "03 / 12 / 2024",
+        "sub": "PHYSICS",
+        "ch": "1,2,9,10"
+    },
+{
         "date": "30 / 11 / 2024",
         "lec1": "LAB",
         "lec2": "EXAM",
@@ -12,7 +29,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "30 / 10 / 2024",
+        "edate": "30 / 11 / 2024",
         "sub": "ENGLISH",
         "ch": "ALL"
     },
@@ -29,7 +46,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "29 / 10 / 2024",
+        "edate": "29 / 11 / 2024",
         "sub": "CHEMISTRY",
         "ch": "2,7"
     },
@@ -46,7 +63,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "29 / 10 / 2024",
+        "edate": "29 / 11 / 2024",
         "sub": "CHEMISTRY",
         "ch": "2,7"
     },
@@ -63,7 +80,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "28 / 10 / 2024",
+        "edate": "28 / 11 / 2024",
         "sub": "JEE-MAIN",
         "ch": "AS PER SCHEDULE"
     },
@@ -80,7 +97,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "27 / 10 / 2024",
+        "edate": "27 / 11 / 2024",
         "sub": "COMPUTER",
         "ch": "AS PER SCHEDULE"
     },
@@ -97,7 +114,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "27 / 10 / 2024",
+        "edate": "27 / 11 / 2024",
         "sub": "COMPUTER",
         "ch": "AS PER SCHEDULE"
     },
@@ -114,7 +131,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "27 / 10 / 2024",
+        "edate": "27 / 11 / 2024",
         "sub": "COMPUTER",
         "ch": "AS PER SCHEDULE"
     },
@@ -131,7 +148,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "23 / 10 / 2024",
+        "edate": "23 / 11 / 2024",
         "sub": "JEE-MAIN & ENGLISH(FULL)",
         "ch": "AS PER SCHEDULE"
     },
@@ -148,7 +165,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "23 / 10 / 2024",
+        "edate": "23 / 11 / 2024",
         "sub": "JEE-MAIN & ENGLISH(FULL)",
         "ch": "AS PER SCHEDULE"
     },
@@ -165,7 +182,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "21 / 10 / 2024",
+        "edate": "21 / 11 / 2024",
         "sub": "PHYSICS ROUND-1",
         "ch": "3,11,12"
     },
@@ -182,7 +199,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "20 / 10 / 2024",
+        "edate": "20 / 11 / 2024",
         "sub": "JEE-MAIN",
         "ch": "AS PER SCHEDULE"
     },
@@ -199,7 +216,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "19 / 10 / 2024",
+        "edate": "19 / 11 / 2024",
         "sub": "CHEMISTRY ROUND-1",
         "ch": "1,6,10"
     },
@@ -250,7 +267,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "17 / 10 / 2024",
+        "edate": "17 / 11 / 2024",
         "sub": "JEE ADVANCE",
         "ch": "IF YOU KNOW,  YOU KNOW"
     },
@@ -267,7 +284,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "16 / 10 / 2024",
+        "edate": "16 / 11 / 2024",
         "sub": "MATHS ROUND-1",
         "ch": "1,2,3,4"
     },
@@ -284,7 +301,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "16 / 10 / 2024",
+        "edate": "16 / 11 / 2024",
         "sub": "MATHS ROUND-1",
         "ch": "1,2,3,4"
     },
@@ -301,7 +318,7 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "16 / 10 / 2024",
+        "edate": "16 / 11 / 2024",
         "sub": "MATHS ROUND-1",
         "ch": "1,2,3,4"
     },
@@ -318,13 +335,13 @@
         "hw1": "NOTHING",
         "hw2": "",
         "hw3": "",
-        "edate": "16 / 10 / 2024",
+        "edate": "16 / 11 / 2024",
         "sub": "MATHS ROUND-1",
         "ch": "1,2,3,4"
     },
     
 {
-        "date": "11 / 10 / 2024",
+        "date": "11 / 11 / 2024",
         "lec1": "EXAM",
         "lec2": "ENGLISH",
         "lec3": "AD SIR",
