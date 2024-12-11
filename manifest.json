@@ -1,0 +1,15 @@
+{
+    "name": "12-B/D Time Table",
+    "short_name": "Time Tbale",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
