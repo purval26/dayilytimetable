@@ -1,5 +1,22 @@
 [
          {
+        "date": "13 / 12 / 2024",
+        "lec1": "EXAM",
+        "lec2": "SP SIR",
+        "lec3": "TL SIR",
+        "lec4": "SEMINAR",
+        "lec5": "AD SIR",
+        "lec6": "",
+        "lec7": "",
+        "hwdate": "12 / 12 / 2024",
+        "hw1": "NOTHING",
+        "hw2": "",
+        "hw3": "",
+        "edate": "14 / 12 / 2024",
+        "sub": "MATHS",
+        "ch": "7,8,9"
+    },
+         {
         "date": "12 / 12 / 2024",
         "lec1": "EXAM",
         "lec2": "COMPUTER",
